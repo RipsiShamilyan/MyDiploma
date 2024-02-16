@@ -1,0 +1,10 @@
+.divLess{
+   padding-top: 10px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    color: #fff;
+    >div{
+        border: 2px solid #fff;
+    }
+}
